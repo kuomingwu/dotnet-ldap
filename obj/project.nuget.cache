@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUenpG+Zes7SnR2/9r+oviof1QVN3ZVuPA9y7CsBrw0zReguB32oFNxVMYu3OW15VrWtTIc2/+0zIxLBJUL+EQ==",
+  "success": true,
+  "projectFilePath": "/Users/mowu/Desktop/project/test/asp.net.core/ldap/ldap.csproj",
+  "expectedPackageFiles": [
+    "/Users/mowu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
